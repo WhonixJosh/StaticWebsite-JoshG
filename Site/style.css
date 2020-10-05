@@ -1,0 +1,54 @@
+body {
+  background-color: yellow;
+}
+img {
+  border-radius:30px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7);
+}
+#hometitle {
+  font-family:'Anton', sans-serif;
+  text-align: center;
+  padding: 30px;
+  font-size:48px;
+  color: blue;
+}
+.navigation {
+  font-family: serif;
+  font-size: 14px;
+}
+.header {
+  text-align: center;
+  padding: 30px;
+  font-size:48px;
+  color: blue;
+}
+hr {
+  background-color: #000000;
+  border: 1px solid black;
+  border-radius: 7px 7px 7px 7px;
+  height: 2px;
+}
+#about_content {
+  font-family:'Anton', sans-serif;
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+  size: 18px;
+  color: blue;
+}
+.article_text {
+  background-color:white;
+  width:74%;
+  float:right;
+  box-sizing:border-box;
+  border-radius:10px;
+  padding:2%;
+  margin:0 0 2%;
+}
+.article_img {
+  width:24%;
+  float:left;
+}
+p.article_text {
+  size: 16px;
+}
